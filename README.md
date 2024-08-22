@@ -1,4 +1,4 @@
-# Linear-Stats
+# LINEAR-STATS
 
 This program calculates the statistical measures of a dataset provided in a text file (data.txt). The file must strictly hold decimal numbers as program won't run if a non decimal number character is detected. Also the numbers must be within the float64 range else program won't run. Empty lines will be skipped. Fractions are not to be used. The supported statistical measures are:
 
@@ -45,7 +45,7 @@ The program will output the calculated statistical measures.
 
 ### Author
 
-- [@mombewa](https://learn.zone01kisumu.ke/git/mombewa)
+- [@MauriceOmbewa]([https://learn.zone01kisumu.ke/git/mombewa](https://github.com/MauriceOmbewa))
 
 ### License
 
