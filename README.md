@@ -45,7 +45,7 @@ The program will output the calculated statistical measures.
 
 ### Author
 
-- [@MauriceOmbewa]([https://learn.zone01kisumu.ke/git/mombewa](https://github.com/MauriceOmbewa))
+- [@MauriceOmbewa](https://github.com/MauriceOmbewa)
 
 ### License
 
